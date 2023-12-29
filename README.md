@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @the-yela95
-- 👀 I’m interested in backend web development
-- 🌱 I’m currently learning html, css, js, python
+- 👋 Hi, I’m Yela
+- 👀 I’m interested in Backend web development
+- 🌱 I’m currently learning html, css, python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me israel.oyewale2016@gmail.com
 
